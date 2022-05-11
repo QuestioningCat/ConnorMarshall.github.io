@@ -1831,7 +1831,7 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: transparent;
+		background-color: #3c2c62;
 		border: solid 3px !important;
 		border-color: rgba(255, 255, 255, 0.15) !important;
 		border-radius: 3em;
